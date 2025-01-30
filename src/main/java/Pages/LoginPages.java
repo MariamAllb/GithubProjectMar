@@ -10,6 +10,7 @@ public class LoginPages {
     WebDriver driver = null;
     public LoginPages(WebDriver driver){
         this.driver = driver;
+
     }
 
     public void openGitUrl(){
